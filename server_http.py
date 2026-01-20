@@ -219,7 +219,7 @@ async def openapi_schema(request: Request):
         },
         "servers": [
             {
-                "url": "https://cashflow-mcp-241840460713.us-central1.run.app"
+                "url": "https://cashflow-planning-241840460713.us-central1.run.app"
             }
         ],
         "paths": {
