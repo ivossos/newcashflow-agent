@@ -9,6 +9,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy application code
 COPY cashflow_mcp_server.py .
 COPY opera_client.py .
+COPY planning_client.py .
 COPY server_http.py .
 
 # Create data directory
