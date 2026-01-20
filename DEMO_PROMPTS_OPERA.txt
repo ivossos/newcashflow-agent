@@ -1,0 +1,29 @@
+Fetch current rates from Opera for the next 14 days
+
+Get Opera inventory and occupancy for this week
+
+Compare Opera rates with our dynamic pricing recommendations for the next 30 days
+
+Preview rate sync to Opera for January 15-31 without pushing
+
+Sync optimized rates to Opera for the Chicago Auto Show January 20-25
+
+Get Opera inventory for Lollapalooza weekend August 1-4
+
+Fetch Opera BAR rates for Valentine's Day weekend
+
+Push dynamic pricing rates to Opera for this weekend
+
+Get occupancy levels from Opera for the next 2 weeks
+
+Compare our recommended rates vs what's currently in Opera for February
+
+Sync rates to Opera for the summer high season June 1-30
+
+Fetch Opera inventory for New Year's Eve to check availability
+
+Preview rate changes for the Chicago Marathon weekend October 10-11
+
+Push optimized rates to Opera for the next 7 days
+
+Get Opera rates and show which days need price increases

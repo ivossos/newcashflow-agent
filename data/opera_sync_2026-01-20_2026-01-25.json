@@ -1,0 +1,100 @@
+{
+  "hotel_name": "501-L7 Chicago Hotel",
+  "opera_hotel_id": "CHICAGOL7",
+  "period": {
+    "start": "2026-01-20",
+    "end": "2026-01-25",
+    "days": 6
+  },
+  "rate_code": "BAR",
+  "room_type": "STD",
+  "preview_only": false,
+  "rates": [
+    {
+      "date": "2026-01-20",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 232.91,
+      "day_of_week": "Tuesday",
+      "adjustment_pct": 28.0
+    },
+    {
+      "date": "2026-01-21",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 302.4,
+      "day_of_week": "Wednesday",
+      "adjustment_pct": 60.0
+    },
+    {
+      "date": "2026-01-22",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 320.93,
+      "day_of_week": "Thursday",
+      "adjustment_pct": 70.0
+    },
+    {
+      "date": "2026-01-23",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 349.65,
+      "day_of_week": "Friday",
+      "adjustment_pct": 85.0
+    },
+    {
+      "date": "2026-01-24",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 368.55,
+      "day_of_week": "Saturday",
+      "adjustment_pct": 95.0
+    },
+    {
+      "date": "2026-01-25",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 321.3,
+      "day_of_week": "Sunday",
+      "adjustment_pct": 70.0
+    }
+  ],
+  "sync_result": {
+    "total": 6,
+    "success": 6,
+    "failed": 0,
+    "details": [
+      {
+        "date": "2026-01-20",
+        "amount": 232.91,
+        "success": true
+      },
+      {
+        "date": "2026-01-21",
+        "amount": 302.4,
+        "success": true
+      },
+      {
+        "date": "2026-01-22",
+        "amount": 320.93,
+        "success": true
+      },
+      {
+        "date": "2026-01-23",
+        "amount": 349.65,
+        "success": true
+      },
+      {
+        "date": "2026-01-24",
+        "amount": 368.55,
+        "success": true
+      },
+      {
+        "date": "2026-01-25",
+        "amount": 321.3,
+        "success": true
+      }
+    ]
+  },
+  "status": "SYNCED - 6/6 rates updated in Opera"
+}

@@ -1,0 +1,45 @@
+{
+  "hotel_name": "Grand Hotel Example",
+  "forecast_period": {
+    "start": "2025-01-15",
+    "end": "2025-01-17",
+    "days": 3
+  },
+  "summary": {
+    "opening_balance": 250000.0,
+    "total_inflows": 71127.02,
+    "total_outflows": 19239.56,
+    "net_change": 51887.46,
+    "closing_balance": 301887.46,
+    "days_below_minimum": 0
+  },
+  "daily_forecast": [
+    {
+      "date": "2025-01-15",
+      "day_of_week": "Wednesday",
+      "total_inflows": 24355.11,
+      "total_outflows": 10149.89,
+      "net_cash_flow": 14205.22,
+      "closing_balance": 264205.22,
+      "below_minimum": false
+    },
+    {
+      "date": "2025-01-16",
+      "day_of_week": "Thursday",
+      "total_inflows": 22799.33,
+      "total_outflows": 3908.33,
+      "net_cash_flow": 18891.0,
+      "closing_balance": 283096.22,
+      "below_minimum": false
+    },
+    {
+      "date": "2025-01-17",
+      "day_of_week": "Friday",
+      "total_inflows": 23972.58,
+      "total_outflows": 5181.34,
+      "net_cash_flow": 18791.24,
+      "closing_balance": 301887.46,
+      "below_minimum": false
+    }
+  ]
+}

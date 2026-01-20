@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-01-20T17:22:38.143250",
+  "scenario": "Forecast",
+  "load_method": "REPLACE",
+  "periods": [
+    "FY25:Jun",
+    "FY25:Jul",
+    "FY25:Aug",
+    "FY25:Sep",
+    "FY25:Oct",
+    "FY25:Nov",
+    "FY25:Dec"
+  ],
+  "records_loaded": 140,
+  "sync_result": {
+    "status": "SUCCESS",
+    "message": "Data loaded to PlanApp/FinPlan",
+    "periods": [
+      "Aug",
+      "Dec",
+      "Jul",
+      "Jun",
+      "Nov",
+      "Oct",
+      "Sep"
+    ],
+    "accounts_loaded": 20,
+    "records_loaded": 140,
+    "api_response": {
+      "numAcceptedCells": 119,
+      "numRejectedCells": 21,
+      "rejectedCells": [
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421100, Aug]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421200, Aug]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421300, Aug]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421100, Dec]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421200, Dec]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421300, Dec]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421100, Jul]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421200, Jul]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421300, Jul]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421100, Jun]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421200, Jun]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421300, Jun]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421100, Nov]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421200, Nov]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421300, Nov]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421100, Oct]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421200, Oct]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421300, Oct]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421100, Sep]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421200, Sep]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 421300, Sep]"
+      ],
+      "numUpdatedCells": 119
+    }
+  }
+}

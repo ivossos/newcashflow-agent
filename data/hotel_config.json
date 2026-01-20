@@ -1,0 +1,40 @@
+{
+  "hotel_name": "501-L7 Chicago Hotel",
+  "entity_id": "E501",
+  "region": "R131",
+  "region_name": "Illinois",
+  "cost_center": "CC1121",
+  "scenario": "Actual",
+  "version": "Final",
+  "currency": "USD",
+  "fiscal_year": "FY25",
+  "room_count": 250,
+  "average_daily_rate": 189.00,
+  "average_occupancy": 0.75,
+  "opening_cash_balance": 350000.00,
+  "minimum_cash_reserve": 75000.00,
+  "seasonality": {
+    "high_season_months": [6, 7, 8, 12],
+    "low_season_months": [1, 2, 11],
+    "high_season_multiplier": 1.35,
+    "low_season_multiplier": 0.65
+  },
+  "planning_dimensions": {
+    "Account": "400000",
+    "Entity": "E501",
+    "Scenario": "Actual",
+    "Years": "FY25",
+    "Period": "YearTotal",
+    "Version": "Final",
+    "Currency": "USD",
+    "Future1": "No Future1",
+    "CostCenter": "CC1121",
+    "Region": "R131"
+  },
+  "opera_hotel_id": "CHICAGOL7",
+  "opera_url": "",
+  "opera_username": "",
+  "opera_password": "",
+  "opera_client_id": "",
+  "opera_client_secret": ""
+}

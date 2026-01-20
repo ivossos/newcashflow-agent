@@ -1,0 +1,37 @@
+{
+  "date": "2025-01-15",
+  "actual_inflows": 25000,
+  "actual_outflows": 18000,
+  "validation": {
+    "date": "2025-01-15",
+    "forecast": {
+      "total_inflows": 24873.46,
+      "total_outflows": 9601.71,
+      "net_cash_flow": 15271.75
+    },
+    "actuals": {
+      "total_inflows": 25000,
+      "total_outflows": 18000,
+      "net_cash_flow": 7000
+    },
+    "variance": {
+      "inflows": {
+        "amount": 126.54,
+        "percentage": 0.51,
+        "direction": "favorable"
+      },
+      "outflows": {
+        "amount": 8398.29,
+        "percentage": 87.47,
+        "direction": "unfavorable"
+      },
+      "net_impact": -8271.75
+    },
+    "accuracy": {
+      "inflow_accuracy": 99.49,
+      "outflow_accuracy": 12.53,
+      "overall_accuracy": 56.01
+    },
+    "assessment": "NEEDS REVIEW"
+  }
+}

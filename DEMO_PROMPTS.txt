@@ -1,0 +1,53 @@
+What's our current cash position?
+
+Generate a cash flow forecast for the next 30 days
+
+Run a scenario called "Low Season February" from February 1 to February 28 with occupancy down 20%
+
+Optimize room pricing for the next 14 days - we're currently at 72% occupancy
+
+What events are happening in Chicago from January 15 to February 15?
+
+Show me competitor rates for this Saturday
+
+What should our room rates be during the Chicago Auto Show from January 20 to January 25?
+
+Calculate optimal pricing for next weekend assuming 88% occupancy and last-minute bookings
+
+Get competitor rate analysis for January 21 during the Auto Show
+
+Optimize pricing for Lollapalooza weekend August 1 to August 4
+
+What's the recommended rate for Valentine's Day with 90% occupancy?
+
+Show all sports events in Chicago for 2026
+
+Compare our rates to Marriott and Hilton for New Year's Eve
+
+Optimize pricing for the summer high season June 1 to June 30
+
+What should we charge during the Chicago Marathon weekend October 10-11?
+
+Generate a forecast with dynamic pricing for the next 2 weeks
+
+Run a scenario called "Rate Increase" with rates up 15% for the next month
+
+Export a cash flow summary report for January 2026
+
+Validate yesterday's forecast against actuals: inflows $48,000 and outflows $29,500
+
+What's the revenue uplift if we use dynamic pricing for the next 30 days at 75% occupancy?
+
+Fetch current rates from Opera for the next 14 days and compare with our recommendations
+
+Get room inventory and occupancy from Opera for this week
+
+Preview rate sync to Opera for the next 7 days - don't push yet
+
+Sync optimized rates to Opera for January 20-25 during the Auto Show
+
+Compare Opera BAR rates with our dynamic pricing for the next month
+
+Get Opera inventory for Lollapalooza weekend to check occupancy levels
+
+Push recommended rates to Opera for the weekend

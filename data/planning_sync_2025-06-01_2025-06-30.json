@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-01-20T16:36:15.465551",
+  "scenario": "Forecast",
+  "load_method": "REPLACE",
+  "periods": [
+    "FY25:Jun"
+  ],
+  "records_loaded": 9,
+  "sync_result": {
+    "status": "SUCCESS",
+    "message": "Data loaded to PlanApp/FinPlan",
+    "periods": [
+      "Jun"
+    ],
+    "accounts_loaded": 9,
+    "records_loaded": 9,
+    "api_response": {
+      "numAcceptedCells": 5,
+      "numRejectedCells": 4,
+      "rejectedCells": [
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 111230, Jun]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 410000, Jun]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 420000, Jun]",
+        "[E501, Forecast, FY25, Final, USD, No Future1, CC1121, R131, 911000, Jun]"
+      ],
+      "numUpdatedCells": 3
+    }
+  }
+}

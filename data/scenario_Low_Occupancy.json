@@ -1,0 +1,49 @@
+{
+  "scenario_name": "Low Occupancy",
+  "period": {
+    "start": "2025-01-15",
+    "end": "2025-01-17",
+    "days": 3
+  },
+  "adjustments": {
+    "occupancy_change": "-20%",
+    "rate_change": "0%",
+    "expense_change": "0%"
+  },
+  "comparison": {
+    "baseline": {
+      "total_net_cash_flow": 54141.8,
+      "final_balance": 304141.8,
+      "days_below_minimum": 0
+    },
+    "scenario": {
+      "total_net_cash_flow": 41383.35,
+      "final_balance": 291383.35,
+      "days_below_minimum": 0
+    },
+    "impact": {
+      "cash_flow_difference": -12758.45,
+      "final_balance_difference": -12758.45
+    }
+  },
+  "daily_comparison": [
+    {
+      "date": "2025-01-15",
+      "baseline_balance": 263897.07,
+      "scenario_balance": 259548.23,
+      "difference": -4348.84
+    },
+    {
+      "date": "2025-01-16",
+      "baseline_balance": 283304.09,
+      "scenario_balance": 275251.07,
+      "difference": -8053.02
+    },
+    {
+      "date": "2025-01-17",
+      "baseline_balance": 304141.8,
+      "scenario_balance": 291383.35,
+      "difference": -12758.45
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "hotel_name": "501-L7 Chicago Hotel",
+  "period": {
+    "start": "2026-01-15",
+    "end": "2026-01-29",
+    "days": 15
+  },
+  "pricing_parameters": {
+    "base_rate": 189.0,
+    "min_rate": 99.0,
+    "max_rate": 449.0,
+    "occupancy_used": 72.0,
+    "lead_days": 0
+  },
+  "summary": {
+    "avg_base_rate": 189.0,
+    "avg_optimized_rate": 266.27,
+    "total_base_revenue": 510300.0,
+    "total_optimized_revenue": 718927.2,
+    "total_revenue_uplift": 208627.2,
+    "uplift_percentage": 40.9
+  },
+  "daily_recommendations": [
+    {
+      "date": "2026-01-15",
+      "day_of_week": "Thursday",
+      "base_rate": 189.0,
+      "optimized_rate": 227.49,
+      "total_adjustment_pct": 30.0,
+      "rate_change": 38.49,
+      "competitor_avg": 197.82,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Thursday",
+          "adjustment": 0.05
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 200.87,
+            "Hilton Chicago": 227.97,
+            "Hyatt Regency": 190.76,
+            "Palmer House": 171.67
+          },
+          "average": 197.82
+        },
+        "market_cap_applied": true
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 40948.2,
+      "revenue_uplift": 6928.2
+    },
+    {
+      "date": "2026-01-16",
+      "day_of_week": "Friday",
+      "base_rate": 189.0,
+      "optimized_rate": 270.63,
+      "total_adjustment_pct": 45.0,
+      "rate_change": 81.63,
+      "competitor_avg": 235.33,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Friday",
+          "adjustment": 0.2
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 256.67,
+            "Hilton Chicago": 230.56,
+            "Hyatt Regency": 248.39,
+            "Palmer House": 205.71
+          },
+          "average": 235.33
+        },
+        "market_cap_applied": true
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 48713.4,
+      "revenue_uplift": 14693.4
+    },
+    {
+      "date": "2026-01-17",
+      "day_of_week": "Saturday",
+      "base_rate": 189.0,
+      "optimized_rate": 283.5,
+      "total_adjustment_pct": 50.0,
+      "rate_change": 94.5,
+      "competitor_avg": 249.16,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Saturday",
+          "adjustment": 0.25
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 239.99,
+            "Hilton Chicago": 262.58,
+            "Hyatt Regency": 237.1,
+            "Palmer House": 256.97
+          },
+          "average": 249.16
+        },
+        "market_cap_applied": false
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 51030.0,
+      "revenue_uplift": 17010.0
+    },
+    {
+      "date": "2026-01-18",
+      "day_of_week": "Sunday",
+      "base_rate": 189.0,
+      "optimized_rate": 231.85,
+      "total_adjustment_pct": 25.0,
+      "rate_change": 42.85,
+      "competitor_avg": 201.61,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Sunday",
+          "adjustment": 0.0
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 199.81,
+            "Hilton Chicago": 215.18,
+            "Hyatt Regency": 206.74,
+            "Palmer House": 184.7
+          },
+          "average": 201.61
+        },
+        "market_cap_applied": true
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 41733.0,
+      "revenue_uplift": 7713.0
+    },
+    {
+      "date": "2026-01-19",
+      "day_of_week": "Monday",
+      "base_rate": 189.0,
+      "optimized_rate": 215.15,
+      "total_adjustment_pct": 15.0,
+      "rate_change": 26.15,
+      "competitor_avg": 187.09,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Monday",
+          "adjustment": -0.1
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 179.07,
+            "Hilton Chicago": 191.87,
+            "Hyatt Regency": 188.91,
+            "Palmer House": 188.51
+          },
+          "average": 187.09
+        },
+        "market_cap_applied": true
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 38727.0,
+      "revenue_uplift": 4707.0
+    },
+    {
+      "date": "2026-01-20",
+      "day_of_week": "Tuesday",
+      "base_rate": 189.0,
+      "optimized_rate": 241.92,
+      "total_adjustment_pct": 28.0,
+      "rate_change": 52.92,
+      "competitor_avg": 218.12,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Tuesday",
+          "adjustment": -0.12
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": {
+          "name": "Chicago Auto Show Setup",
+          "type": "convention",
+          "adjustment": 0.15
+        },
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 212.14,
+            "Hilton Chicago": 227.66,
+            "Hyatt Regency": 216.03,
+            "Palmer House": 216.67
+          },
+          "average": 218.12
+        },
+        "market_cap_applied": false
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 43545.6,
+      "revenue_uplift": 9525.6
+    },
+    {
+      "date": "2026-01-21",
+      "day_of_week": "Wednesday",
+      "base_rate": 189.0,
+      "optimized_rate": 302.4,
+      "total_adjustment_pct": 60.0,
+      "rate_change": 113.4,
+      "competitor_avg": 264.78,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Wednesday",
+          "adjustment": -0.05
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": {
+          "name": "Chicago Auto Show",
+          "type": "convention",
+          "adjustment": 0.4
+        },
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 262.05,
+            "Hilton Chicago": 275.72,
+            "Hyatt Regency": 267.97,
+            "Palmer House": 253.39
+          },
+          "average": 264.78
+        },
+        "market_cap_applied": false
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 54432.0,
+      "revenue_uplift": 20412.0
+    },
+    {
+      "date": "2026-01-22",
+      "day_of_week": "Thursday",
+      "base_rate": 189.0,
+      "optimized_rate": 321.3,
+      "total_adjustment_pct": 70.0,
+      "rate_change": 132.3,
+      "competitor_avg": 284.77,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Thursday",
+          "adjustment": 0.05
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": {
+          "name": "Chicago Auto Show",
+          "type": "convention",
+          "adjustment": 0.4
+        },
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 307.37,
+            "Hilton Chicago": 314.55,
+            "Hyatt Regency": 270.33,
+            "Palmer House": 246.82
+          },
+          "average": 284.77
+        },
+        "market_cap_applied": false
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 57834.0,
+      "revenue_uplift": 23814.0
+    },
+    {
+      "date": "2026-01-23",
+      "day_of_week": "Friday",
+      "base_rate": 189.0,
+      "optimized_rate": 349.65,
+      "total_adjustment_pct": 85.0,
+      "rate_change": 160.65,
+      "competitor_avg": 331.7,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Friday",
+          "adjustment": 0.2
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": {
+          "name": "Chicago Auto Show",
+          "type": "convention",
+          "adjustment": 0.4
+        },
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 332.56,
+            "Hilton Chicago": 356.35,
+            "Hyatt Regency": 322.61,
+            "Palmer House": 315.28
+          },
+          "average": 331.7
+        },
+        "market_cap_applied": false
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 62937.0,
+      "revenue_uplift": 28917.0
+    },
+    {
+      "date": "2026-01-24",
+      "day_of_week": "Saturday",
+      "base_rate": 189.0,
+      "optimized_rate": 368.55,
+      "total_adjustment_pct": 95.0,
+      "rate_change": 179.55,
+      "competitor_avg": 344.41,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Saturday",
+          "adjustment": 0.25
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": {
+          "name": "Chicago Auto Show",
+          "type": "convention",
+          "adjustment": 0.45
+        },
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 349.36,
+            "Hilton Chicago": 351.19,
+            "Hyatt Regency": 346.79,
+            "Palmer House": 330.3
+          },
+          "average": 344.41
+        },
+        "market_cap_applied": false
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 66339.0,
+      "revenue_uplift": 32319.0
+    },
+    {
+      "date": "2026-01-25",
+      "day_of_week": "Sunday",
+      "base_rate": 189.0,
+      "optimized_rate": 321.3,
+      "total_adjustment_pct": 70.0,
+      "rate_change": 132.3,
+      "competitor_avg": 285.74,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Sunday",
+          "adjustment": 0.0
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": {
+          "name": "Chicago Auto Show",
+          "type": "convention",
+          "adjustment": 0.45
+        },
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 273.61,
+            "Hilton Chicago": 318.85,
+            "Hyatt Regency": 289.13,
+            "Palmer House": 261.36
+          },
+          "average": 285.74
+        },
+        "market_cap_applied": false
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 57834.0,
+      "revenue_uplift": 23814.0
+    },
+    {
+      "date": "2026-01-26",
+      "day_of_week": "Monday",
+      "base_rate": 189.0,
+      "optimized_rate": 213.16,
+      "total_adjustment_pct": 15.0,
+      "rate_change": 24.16,
+      "competitor_avg": 185.35,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Monday",
+          "adjustment": -0.1
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 168.95,
+            "Hilton Chicago": 196.07,
+            "Hyatt Regency": 186.97,
+            "Palmer House": 189.43
+          },
+          "average": 185.35
+        },
+        "market_cap_applied": true
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 38368.8,
+      "revenue_uplift": 4348.8
+    },
+    {
+      "date": "2026-01-27",
+      "day_of_week": "Tuesday",
+      "base_rate": 189.0,
+      "optimized_rate": 202.12,
+      "total_adjustment_pct": 13.0,
+      "rate_change": 13.12,
+      "competitor_avg": 175.76,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Tuesday",
+          "adjustment": -0.12
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 192.05,
+            "Hilton Chicago": 200.51,
+            "Hyatt Regency": 172.28,
+            "Palmer House": 138.19
+          },
+          "average": 175.76
+        },
+        "market_cap_applied": true
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 36381.6,
+      "revenue_uplift": 2361.6
+    },
+    {
+      "date": "2026-01-28",
+      "day_of_week": "Wednesday",
+      "base_rate": 189.0,
+      "optimized_rate": 204.65,
+      "total_adjustment_pct": 20.0,
+      "rate_change": 15.65,
+      "competitor_avg": 177.95,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Wednesday",
+          "adjustment": -0.05
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 193.63,
+            "Hilton Chicago": 189.07,
+            "Hyatt Regency": 172.1,
+            "Palmer House": 157.01
+          },
+          "average": 177.95
+        },
+        "market_cap_applied": true
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 36837.0,
+      "revenue_uplift": 2817.0
+    },
+    {
+      "date": "2026-01-29",
+      "day_of_week": "Thursday",
+      "base_rate": 189.0,
+      "optimized_rate": 240.37,
+      "total_adjustment_pct": 30.0,
+      "rate_change": 51.37,
+      "competitor_avg": 209.01,
+      "position_vs_market": "above",
+      "factor_breakdown": {
+        "occupancy": {
+          "level": 72.0,
+          "tier": "high",
+          "adjustment": 0.15
+        },
+        "day_of_week": {
+          "day": "Thursday",
+          "adjustment": 0.05
+        },
+        "seasonality": {
+          "month": "January",
+          "adjustment": -0.2
+        },
+        "lead_time": {
+          "days": 0,
+          "tier": "same_day",
+          "adjustment": 0.3
+        },
+        "event": null,
+        "competitors": {
+          "rates": {
+            "Marriott Downtown": 214.31,
+            "Hilton Chicago": 221.95,
+            "Hyatt Regency": 205.59,
+            "Palmer House": 194.21
+          },
+          "average": 209.01
+        },
+        "market_cap_applied": true
+      },
+      "projected_rooms": 180,
+      "base_revenue": 34020.0,
+      "optimized_revenue": 43266.6,
+      "revenue_uplift": 9246.6
+    }
+  ]
+}

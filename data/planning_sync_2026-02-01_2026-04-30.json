@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-01-20T14:52:32.536074",
+  "scenario": "Forecast",
+  "load_method": "REPLACE",
+  "periods": [
+    "Feb-26",
+    "Mar-26",
+    "Apr-26"
+  ],
+  "records_loaded": 42,
+  "sync_result": {
+    "status": "ERROR",
+    "message": "HTTP Error 400: Bad Request",
+    "periods": [
+      "Apr-26",
+      "Feb-26",
+      "Mar-26"
+    ],
+    "accounts_attempted": 14
+  }
+}

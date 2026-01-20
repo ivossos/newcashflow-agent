@@ -1,0 +1,425 @@
+{
+  "hotel_name": "501-L7 Chicago Hotel",
+  "opera_hotel_id": "CHICAGOL7",
+  "period": {
+    "start": "2026-01-16",
+    "end": "2026-02-15",
+    "days": 31
+  },
+  "rate_code": "BAR",
+  "room_type": "STD",
+  "preview_only": false,
+  "rates": [
+    {
+      "date": "2026-01-16",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 274.05,
+      "day_of_week": "Friday",
+      "adjustment_pct": 45.0
+    },
+    {
+      "date": "2026-01-17",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 283.5,
+      "day_of_week": "Saturday",
+      "adjustment_pct": 50.0
+    },
+    {
+      "date": "2026-01-18",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 211.29,
+      "day_of_week": "Sunday",
+      "adjustment_pct": 25.0
+    },
+    {
+      "date": "2026-01-19",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 192.27,
+      "day_of_week": "Monday",
+      "adjustment_pct": 15.0
+    },
+    {
+      "date": "2026-01-20",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 241.92,
+      "day_of_week": "Tuesday",
+      "adjustment_pct": 28.0
+    },
+    {
+      "date": "2026-01-21",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 302.4,
+      "day_of_week": "Wednesday",
+      "adjustment_pct": 60.0
+    },
+    {
+      "date": "2026-01-22",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 319.79,
+      "day_of_week": "Thursday",
+      "adjustment_pct": 70.0
+    },
+    {
+      "date": "2026-01-23",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 349.65,
+      "day_of_week": "Friday",
+      "adjustment_pct": 85.0
+    },
+    {
+      "date": "2026-01-24",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 368.55,
+      "day_of_week": "Saturday",
+      "adjustment_pct": 95.0
+    },
+    {
+      "date": "2026-01-25",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 321.3,
+      "day_of_week": "Sunday",
+      "adjustment_pct": 70.0
+    },
+    {
+      "date": "2026-01-26",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 201.58,
+      "day_of_week": "Monday",
+      "adjustment_pct": 15.0
+    },
+    {
+      "date": "2026-01-27",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 201.44,
+      "day_of_week": "Tuesday",
+      "adjustment_pct": 13.0
+    },
+    {
+      "date": "2026-01-28",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 212.62,
+      "day_of_week": "Wednesday",
+      "adjustment_pct": 20.0
+    },
+    {
+      "date": "2026-01-29",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 245.7,
+      "day_of_week": "Thursday",
+      "adjustment_pct": 30.0
+    },
+    {
+      "date": "2026-01-30",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 274.05,
+      "day_of_week": "Friday",
+      "adjustment_pct": 45.0
+    },
+    {
+      "date": "2026-01-31",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 274.4,
+      "day_of_week": "Saturday",
+      "adjustment_pct": 50.0
+    },
+    {
+      "date": "2026-02-01",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 224.96,
+      "day_of_week": "Sunday",
+      "adjustment_pct": 25.0
+    },
+    {
+      "date": "2026-02-02",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 204.52,
+      "day_of_week": "Monday",
+      "adjustment_pct": 15.0
+    },
+    {
+      "date": "2026-02-03",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 194.15,
+      "day_of_week": "Tuesday",
+      "adjustment_pct": 13.0
+    },
+    {
+      "date": "2026-02-04",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 215.23,
+      "day_of_week": "Wednesday",
+      "adjustment_pct": 20.0
+    },
+    {
+      "date": "2026-02-05",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 241.09,
+      "day_of_week": "Thursday",
+      "adjustment_pct": 30.0
+    },
+    {
+      "date": "2026-02-06",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 268.25,
+      "day_of_week": "Friday",
+      "adjustment_pct": 45.0
+    },
+    {
+      "date": "2026-02-07",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 281.7,
+      "day_of_week": "Saturday",
+      "adjustment_pct": 50.0
+    },
+    {
+      "date": "2026-02-08",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 236.25,
+      "day_of_week": "Sunday",
+      "adjustment_pct": 25.0
+    },
+    {
+      "date": "2026-02-09",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 214.03,
+      "day_of_week": "Monday",
+      "adjustment_pct": 15.0
+    },
+    {
+      "date": "2026-02-10",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 210.3,
+      "day_of_week": "Tuesday",
+      "adjustment_pct": 13.0
+    },
+    {
+      "date": "2026-02-11",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 223.75,
+      "day_of_week": "Wednesday",
+      "adjustment_pct": 20.0
+    },
+    {
+      "date": "2026-02-12",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 242.58,
+      "day_of_week": "Thursday",
+      "adjustment_pct": 30.0
+    },
+    {
+      "date": "2026-02-13",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 274.05,
+      "day_of_week": "Friday",
+      "adjustment_pct": 45.0
+    },
+    {
+      "date": "2026-02-14",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 330.75,
+      "day_of_week": "Saturday",
+      "adjustment_pct": 75.0
+    },
+    {
+      "date": "2026-02-15",
+      "rate_code": "BAR",
+      "room_type": "STD",
+      "amount": 235.82,
+      "day_of_week": "Sunday",
+      "adjustment_pct": 25.0
+    }
+  ],
+  "sync_result": {
+    "total": 31,
+    "success": 31,
+    "failed": 0,
+    "details": [
+      {
+        "date": "2026-01-16",
+        "amount": 274.05,
+        "success": true
+      },
+      {
+        "date": "2026-01-17",
+        "amount": 283.5,
+        "success": true
+      },
+      {
+        "date": "2026-01-18",
+        "amount": 211.29,
+        "success": true
+      },
+      {
+        "date": "2026-01-19",
+        "amount": 192.27,
+        "success": true
+      },
+      {
+        "date": "2026-01-20",
+        "amount": 241.92,
+        "success": true
+      },
+      {
+        "date": "2026-01-21",
+        "amount": 302.4,
+        "success": true
+      },
+      {
+        "date": "2026-01-22",
+        "amount": 319.79,
+        "success": true
+      },
+      {
+        "date": "2026-01-23",
+        "amount": 349.65,
+        "success": true
+      },
+      {
+        "date": "2026-01-24",
+        "amount": 368.55,
+        "success": true
+      },
+      {
+        "date": "2026-01-25",
+        "amount": 321.3,
+        "success": true
+      },
+      {
+        "date": "2026-01-26",
+        "amount": 201.58,
+        "success": true
+      },
+      {
+        "date": "2026-01-27",
+        "amount": 201.44,
+        "success": true
+      },
+      {
+        "date": "2026-01-28",
+        "amount": 212.62,
+        "success": true
+      },
+      {
+        "date": "2026-01-29",
+        "amount": 245.7,
+        "success": true
+      },
+      {
+        "date": "2026-01-30",
+        "amount": 274.05,
+        "success": true
+      },
+      {
+        "date": "2026-01-31",
+        "amount": 274.4,
+        "success": true
+      },
+      {
+        "date": "2026-02-01",
+        "amount": 224.96,
+        "success": true
+      },
+      {
+        "date": "2026-02-02",
+        "amount": 204.52,
+        "success": true
+      },
+      {
+        "date": "2026-02-03",
+        "amount": 194.15,
+        "success": true
+      },
+      {
+        "date": "2026-02-04",
+        "amount": 215.23,
+        "success": true
+      },
+      {
+        "date": "2026-02-05",
+        "amount": 241.09,
+        "success": true
+      },
+      {
+        "date": "2026-02-06",
+        "amount": 268.25,
+        "success": true
+      },
+      {
+        "date": "2026-02-07",
+        "amount": 281.7,
+        "success": true
+      },
+      {
+        "date": "2026-02-08",
+        "amount": 236.25,
+        "success": true
+      },
+      {
+        "date": "2026-02-09",
+        "amount": 214.03,
+        "success": true
+      },
+      {
+        "date": "2026-02-10",
+        "amount": 210.3,
+        "success": true
+      },
+      {
+        "date": "2026-02-11",
+        "amount": 223.75,
+        "success": true
+      },
+      {
+        "date": "2026-02-12",
+        "amount": 242.58,
+        "success": true
+      },
+      {
+        "date": "2026-02-13",
+        "amount": 274.05,
+        "success": true
+      },
+      {
+        "date": "2026-02-14",
+        "amount": 330.75,
+        "success": true
+      },
+      {
+        "date": "2026-02-15",
+        "amount": 235.82,
+        "success": true
+      }
+    ]
+  },
+  "status": "SYNCED - 31/31 rates updated in Opera"
+}

@@ -1,0 +1,133 @@
+{
+  "scenario_name": "Recession Scenario",
+  "period": {
+    "start": "2026-01-15",
+    "end": "2026-01-31",
+    "days": 17
+  },
+  "adjustments": {
+    "occupancy_change": "-20%",
+    "rate_change": "-10%",
+    "expense_change": "0%"
+  },
+  "comparison": {
+    "baseline": {
+      "total_net_cash_flow": 541524.21,
+      "final_balance": 891524.21,
+      "days_below_minimum": 0
+    },
+    "scenario": {
+      "total_net_cash_flow": 351603.49,
+      "final_balance": 701603.49,
+      "days_below_minimum": 0
+    },
+    "impact": {
+      "cash_flow_difference": -189920.72,
+      "final_balance_difference": -189920.72
+    }
+  },
+  "daily_comparison": [
+    {
+      "date": "2026-01-15",
+      "baseline_balance": 372992.66,
+      "scenario_balance": 359870.35,
+      "difference": -13122.31
+    },
+    {
+      "date": "2026-01-16",
+      "baseline_balance": 402415.07,
+      "scenario_balance": 382413.7,
+      "difference": -20001.37
+    },
+    {
+      "date": "2026-01-17",
+      "baseline_balance": 437731.46,
+      "scenario_balance": 408041.11,
+      "difference": -29690.35
+    },
+    {
+      "date": "2026-01-18",
+      "baseline_balance": 474301.88,
+      "scenario_balance": 434227.72,
+      "difference": -40074.16
+    },
+    {
+      "date": "2026-01-19",
+      "baseline_balance": 506344.8,
+      "scenario_balance": 456374.12,
+      "difference": -49970.68
+    },
+    {
+      "date": "2026-01-20",
+      "baseline_balance": 530523.6,
+      "scenario_balance": 470084.86,
+      "difference": -60438.74
+    },
+    {
+      "date": "2026-01-21",
+      "baseline_balance": 564370.17,
+      "scenario_balance": 489921.25,
+      "difference": -74448.92
+    },
+    {
+      "date": "2026-01-22",
+      "baseline_balance": 594068.43,
+      "scenario_balance": 509551.99,
+      "difference": -84516.44
+    },
+    {
+      "date": "2026-01-23",
+      "baseline_balance": 625557.15,
+      "scenario_balance": 529377.95,
+      "difference": -96179.2
+    },
+    {
+      "date": "2026-01-24",
+      "baseline_balance": 661277.53,
+      "scenario_balance": 552940.0,
+      "difference": -108337.53
+    },
+    {
+      "date": "2026-01-25",
+      "baseline_balance": 696304.99,
+      "scenario_balance": 575477.42,
+      "difference": -120827.57
+    },
+    {
+      "date": "2026-01-26",
+      "baseline_balance": 728323.2,
+      "scenario_balance": 595648.42,
+      "difference": -132674.78
+    },
+    {
+      "date": "2026-01-27",
+      "baseline_balance": 759922.66,
+      "scenario_balance": 615661.98,
+      "difference": -144260.68
+    },
+    {
+      "date": "2026-01-28",
+      "baseline_balance": 791987.81,
+      "scenario_balance": 636988.53,
+      "difference": -154999.28
+    },
+    {
+      "date": "2026-01-29",
+      "baseline_balance": 822619.64,
+      "scenario_balance": 657057.96,
+      "difference": -165561.68
+    },
+    {
+      "date": "2026-01-30",
+      "baseline_balance": 853426.28,
+      "scenario_balance": 676707.97,
+      "difference": -176718.31
+    },
+    {
+      "date": "2026-01-31",
+      "baseline_balance": 891524.21,
+      "scenario_balance": 701603.49,
+      "difference": -189920.72
+    }
+  ]
+}
